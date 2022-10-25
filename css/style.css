@@ -30,6 +30,7 @@ body::-webkit-scrollbar {
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
 }
 
+
 hr {
     width: 70%;
     border: 1px solid black;
@@ -73,6 +74,14 @@ hr {
 .working h3 {
     animation: rainbow 2.5s linear;
     animation-iteration-count: infinite;
+}
+
+.working-item img {
+    width: 50%;
+}
+
+.header {
+    margin: 0px 110px;
 }
 
 @keyframes rainbow {
