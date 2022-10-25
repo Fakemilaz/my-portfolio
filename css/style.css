@@ -52,6 +52,7 @@ hr {
 .about {
     margin-bottom: 100px;
     text-align: center;
+    width: 100%;
 }
 
 .all-items {
@@ -83,6 +84,10 @@ hr {
 
 .header {
     margin: 0px 110px;
+}
+
+.text {
+    color: white;
 }
 
 @keyframes rainbow {
