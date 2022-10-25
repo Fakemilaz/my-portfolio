@@ -1,3 +1,2 @@
 # my-portfolio
-MY FIRST PORTFOLIO
-Noting!
+MY FIRST PORTFOLIO! YEAHHHH
